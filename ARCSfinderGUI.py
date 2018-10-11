@@ -41,6 +41,7 @@ theLabel2 = Label(bottomFrame, text ="Type ARCS ID")
 theLabel2.pack()
 entry2 = Entry(bottomFrame)
 entry2.pack()
+ChartID = entry2.get
 
 #Import test and button to lower frame
 seperator1 = Label(lowFrame, text="------------------------------------")
