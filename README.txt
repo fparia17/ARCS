@@ -1,6 +1,6 @@
-		
-		ARCS Data Finder
-		================
+===================================================================================
+		                         ARCSfinder
+===================================================================================
 		
 This application allows the user export any ARCS chart's data from the provided
 base CD, to a compress zip file.
@@ -17,3 +17,5 @@ The exported file may then be send to the customer/vessel, to di-compress and
 install on vessel's ECDIS.
 
 The application is developed in Python programming language.
+
+===================================================================================
